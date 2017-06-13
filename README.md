@@ -23,4 +23,4 @@ Jail_System Par b4b4s666 (LUA). Commandes A Ecrire En Chat (T): ( pour les mod e
 
 *jail PASSWORD PLAYERID SECONDES - Emprisonne La Personne Avec Le ID Inscrit Et Le Temps Inscrit Sur Le Password Est Le Bon.
 
-( Merci pour le tuto codage sur pastebin qui ma servie a réalisé ceci CREDIT a pastebin user GUEST pour laide )
+( Merci pour le tuto codage sur pastebin qui ma servie a réalisé ceci CREDIT a Albo1125 pour laide )
