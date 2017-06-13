@@ -1,5 +1,5 @@
 # Jail_System
-system de commande dans le chat pour emprisonné les joueurs en prison pour un temp determiné ou 180 secondes par défaut
+systeme de commande dans le chat pour emprisonné les joueurs en prison pour un temp determiné ou 180 secondes par défaut
 
 -- PREREQUIS --
 
