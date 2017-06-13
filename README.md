@@ -11,7 +11,7 @@ systeme de commande dans le chat pour emprisonné les joueurs en prison pour un 
 
 2.Ajouter - Jail_System a Votre Fichier citmp-server.yml De Votre Serveur Dans La Section AutoStartResources
 
-3.Remplacer Votre Fichier Chat_Client Par Celui-Ci (si vous navez jamais modifier ce fichier remplacer le directement si vous avec modifier le fichier ajouter manuellement les lignes manquante!
+3.Remplacer Votre Fichier Chat_Client Par Celui-Ci (si vous navez jamais modifier ce fichier remplacer le directement si vous avec modifier le fichier ajouter manuellement les lignes manquante)!
 
 -- Utilisation--
 
