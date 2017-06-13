@@ -7,7 +7,7 @@ system de commande dans le chat pour emprisonné les joueurs en prison pour un t
 
 -- INSTALATION --
 
-1.Copier Le Dosier Jail_System Dans Votre Dossier Resources De Votre Serveur!
+1.Copier Le Dossier Jail_System Dans Votre Dossier Resources De Votre Serveur!
 
 2.Ajouter - Jail_System a Votre Fichier citmp-server.yml De Votre Serveur Dans La Section AutoStartResources
 
