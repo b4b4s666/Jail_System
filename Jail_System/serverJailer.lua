@@ -1,4 +1,4 @@
-local jailPassword = "bmjail" --change this password to your liking and don't share it with the criminals ;-)
+local jailPassword = "CHANGEME" --change this password to your liking and don't share it with the criminals ;-)
  
 -----------------------------
  
